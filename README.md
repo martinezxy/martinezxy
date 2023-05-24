@@ -1,16 +1,15 @@
-### Hi there 👋
+### **Olá seja bem vindo** 🔪
 
-<!--
-**martinezxy/martinezxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Amanda acosta
 
-Here are some ideas to get you started:
+- gosto de dormir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo 📫
+
+-mariiacosta775@gmail.com
+
+### Minha rede social do Instagram
+
+-mariaamandxa
+
+![Descrição do gif](https://media.giphy.com/media/5Yd9WgmTNfXn5cge5k/giphy.gif)
