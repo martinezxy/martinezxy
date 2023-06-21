@@ -1,4 +1,4 @@
-### **Olá seja bem vindo** 🔪
+### **Olá seja bem vindo** 
 
 Meu nome e Amanda acosta
 
